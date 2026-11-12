@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="40" viewBox="0 0 212 40" role="img" aria-label="Telegram">
+  <rect x=".5" y=".5" width="211" height="39" rx="19.5" fill="#229ED9" stroke="#229ED9"/>
+  <g transform="translate(14 8) scale(1)"><path d="M21.2 3.2 2.9 10.3c-1.2.5-1.2 1.2-.2 1.5l4.7 1.5 1.8 5.5c.2.6.1.9.8.9.5 0 .7-.2 1-.5l2.3-2.2 4.7 3.5c.9.5 1.5.2 1.7-.8l3.1-14.6c.3-1.3-.5-1.9-1.6-1.4zM8.5 13.4l9.3-5.9c.4-.3.9-.1.5.2l-7.6 6.9-.3 3.2-1.9-4.4z" fill="#ffffff"/></g>
+  <text x="46" y="25.5" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Telegram<tspan fill="rgba(255,255,255,.78)" font-weight="400" dx="8">@begenFys</tspan></text>
+</svg>
