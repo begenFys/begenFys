@@ -83,6 +83,12 @@ I'm comfortable both inside a team and leading one. For half a year I led a back
 `Python` `asyncio` `REST` `Webhooks`
 </details>
 
+## Projects
+
+- **[payment-outbox-service](https://github.com/begenFys/payment-outbox-service)** — async payment processing with the guarantees around it: an idempotent API, a transactional outbox between PostgreSQL and RabbitMQ, an idempotent consumer, retries and a DLQ. Each guarantee is covered by tests.<br>`FastAPI` `PostgreSQL` `RabbitMQ` `FastStream` `mypy strict`
+- **[fastapi-template](https://github.com/begenFys/fastapi-template)** — the template I start Python services from: router, controller and repository layers, JWT auth with rotating refresh tokens, Alembic, tests on testcontainers, Docker and CI.<br>`FastAPI` `SQLAlchemy` `PostgreSQL` `JWT` `Docker`
+- **[speedmeter](https://github.com/begenFys/speedmeter)** — a small CLI that measures download speed, with the measurement method written down and tests that don't touch the network.<br>`Python` `httpx` `pytest`
+
 ## Stack
 
 🐍&nbsp; **Python** &nbsp;FastAPI · asyncio · Pydantic · SQLAlchemy · Alembic · pytest<br>

@@ -83,6 +83,12 @@ Product engineer с глубиной в backend, 4+ года коммерчес�
 `Python` `asyncio` `REST` `Webhooks`
 </details>
 
+## Проекты
+
+- **[payment-outbox-service](https://github.com/begenFys/payment-outbox-service)** — асинхронный процессинг платежей и гарантии вокруг него: идемпотентный API, transactional outbox между PostgreSQL и RabbitMQ, идемпотентный консьюмер, повторы и DLQ. Каждая гарантия покрыта тестами.<br>`FastAPI` `PostgreSQL` `RabbitMQ` `FastStream` `mypy strict`
+- **[fastapi-template](https://github.com/begenFys/fastapi-template)** — шаблон, с которого я начинаю Python-сервисы: слои роутер, контроллер и репозиторий, JWT с ротацией refresh-токенов, Alembic, тесты на testcontainers, Docker и CI.<br>`FastAPI` `SQLAlchemy` `PostgreSQL` `JWT` `Docker`
+- **[speedmeter](https://github.com/begenFys/speedmeter)** — небольшая CLI-утилита для замера скорости скачивания: методика замера описана, тесты работают без сети.<br>`Python` `httpx` `pytest`
+
 ## Стек
 
 🐍&nbsp; **Python** &nbsp;FastAPI · asyncio · Pydantic · SQLAlchemy · Alembic · pytest<br>
